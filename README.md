@@ -48,3 +48,6 @@ actionable recommendations.
 5. Create loyalty program for top 10 customers
 
 ## Project Structure
+
+> Note: GitHub notebook preview may not render — 
+> download and open in Jupyter for best experience
